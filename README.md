@@ -77,6 +77,7 @@ The avearge unit price regardless of product line is 20041.9668, with the lowest
 On average 5 units of each item are sold with an average gross margin percentage of 4.7%
 
 From the Analysis
+
 At the Abuja branch, the payment types usage were almost at par with Epay used slightly above others. However, Lagos branch experienced more of Epay means of payment while Portharcourt experienced more of cash.
 
 Immediately following the first point is that Cash was aggresively utilized more for Electronic accesories, in fact, it is in this product line that cash was used the most.
